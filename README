@@ -15,7 +15,7 @@ Together, we will look great.
 
 Your editor is clothing.
 
-What is programming?  Let's start there?
+What is programming?  Let's start there.
 
 What do we do when we program computers?  How
 do we connect with them?
@@ -43,7 +43,7 @@ python, haskell or c.
 But there's another, parallel, first
 introduction to computer programming.
 
-Show them how to do a few things in emacs.
+Show how to do a few things in emacs.
 Say, C-n and C-p for navigating lines (for next
 and previous).  C-a to get to the front of the
 line (because a is at the front of the
@@ -62,7 +62,21 @@ your movements, but the meaning of them.
 
 And then look at what you've got!
 
-Type C-x e for execute and 
+Type C-x e for execute and you have the routine
+which you have demonstrated with your own
+fingers now performed infront of you
+automatically and instantaneously.
+
+And to the philosopher, there is something
+right here under the hood which is even more
+fascinating.  Do a M-x edit-last-kbd-macro and
+see that what you did in time is now recorded
+as a timeless integer, an untouchable chain of
+commands, a text file, the snow flakes and the
+substance of computing.
+
+There it is.   A real computer program there
+for you to execute or to edit at your leisure. 
 
 
 
