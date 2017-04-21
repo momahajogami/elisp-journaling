@@ -1,0 +1,128 @@
+This is a collection of thoughts and habits
+written in elisp.
+
+I am packaging it as a repository with the
+intention that it rest here on github as an
+embodiment of my personal style.
+
+The idea is that, like my clothes, you may
+borrow them and try them on for a while if they
+fit.  Cut them up.  Make them your own.  Fork
+them, change them.  End up at your own style.
+
+I'll influence you and you'll influence me.
+Together, we will look great.
+
+Your editor is clothing.
+
+What is programming?  Let's start there?
+
+What do we do when we program computers?  How
+do we connect with them?
+
+One thing that I like to do as a first
+deomstration of the concept of ``writing a
+program'' is to do a few things on the command
+line at some terminal.  This is how you talk to
+the computer.  This is what conversation is
+like with your operating system.
+
+Then you take some of those things you said at
+the command line and you write them in your
+editor instead.   Then you save it as a file.
+Now you have a shell script which is a kind of
+computer program.  To run this program is just
+to have the content spoken automatically, line
+by line, to the shell.
+
+Once this is understood by experience, the
+fresh student can easily grasp the routines of
+compiling and interpreting code with, say,
+python, haskell or c.
+
+But there's another, parallel, first
+introduction to computer programming.
+
+Show them how to do a few things in emacs.
+Say, C-n and C-p for navigating lines (for next
+and previous).  C-a to get to the front of the
+line (because a is at the front of the
+alphabet).  M-b and M-f (for back and forth) to
+go back and forward by words.
+
+Now show how to record these activities!
+
+C-x ( to begin recording and C-x ) to end
+recording.
+
+It is a sense of recording that is free from
+the burden of time.  It is a new kind of
+recording.  It doesn't record an impression of
+your movements, but the meaning of them.
+
+And then look at what you've got!
+
+Type C-x e for execute and 
+
+
+
+completing-read_.el -- this is just a place for
+me to play around what will be an important
+part of another repository, ``gradschool'' for
+organizing personal math and physics efforts.
+
+csv-mode.el  -- just something I got pulled and
+took a look at once.  I think it would be good
+to use emacs instead of spreadsheets for basic,
+rectangular data.  Emacs forever!!
+
+el-get-install.el -- Let me not forget about
+this.  A way to install cool stuff in emacs
+without leaving emacs or ``Doctor Emacs, How I
+Learned To Stop Emacs Emacs And Love The
+Emacs.''
+
+epubmode.el -- Now listen here.  We have GOT to
+make reading epubs easy on emacs.  This is
+ridiculous.  A book is something you should be
+able to read as comfortably as possible.  How
+is this not easy in emacs?  I want to say also
+that loading parts of books into memory for
+quick indexing and intelligent browsing should
+be a priority. 
+
+init.el -- this is maybe my most important
+thing.  Everyone should have an init.el that
+starts up whenever you start up emacs and which
+gets everything ready for you just exactly how
+you like it.
+
+In my case, this includes an important (to me)
+function called ``spill and it includes
+personal.el and ralph.el below.
+
+language-reference.el	-- I don't know what
+this was meant to be.  Right now it is garbage
+and could probably be thrown away.
+
+personal.el -- this has a little function for
+inserting the date and some gadgets for
+quick access to high frequency files.
+
+ralph.el -- this is just really personal stuff
+that you're welcome to browse but it's gathered
+here partly because I doubt it would be of
+interest to anyone else. 
+
+rot.el -- I'm not sure I ever got this
+working.  It's a good idea and someone must
+have done it already so please tell me if you
+know a way.  The idea is just to be able to
+flip through the files in a set or in a
+directory as if you were flipping through a
+deck of flash cards. 
+
+sandbox.el -- Everyone should have a sand box.
+This is a place to come and try out code and
+make stuff just for fun and learning. 
+
