@@ -1,0 +1,82 @@
+This is a collection of thoughts and habits
+written in elisp.
+
+I am packaging it as a repository with the
+intention that it rest here on github as an
+embodiment of my personal style.
+
+The idea is that, like my clothes, you may
+borrow them and try them on for a while if they
+fit.  Cut them up.  Make them your own.  Fork
+them, change them.  End up at your own style.
+
+I'll influence you and you'll influence me.
+Together, we will look great.
+
+Your editor is clothing.
+
+What is programming?  Let's start there?
+
+What do we do when we program computers?  How
+do we connect with them?
+
+One thing that I like to do as a first
+deomstration of the concept of ``writing a
+program'' is to do a few things on the command
+line at some terminal.  This is how you talk to
+the computer.  This is what conversation is
+like with your operating system.
+
+Then you take some of those things you said at
+the command line and you write them in your
+editor instead.   Then you save it as a file.
+Now you have a shell script which is a kind of
+computer program.  To run this program is just
+to have the content spoken automatically, line
+by line, to the shell.
+
+Once this is understood by experience, the
+fresh student can easily grasp the routines of
+compiling and interpreting code with, say,
+python, haskell or c.
+
+But there's another, parallel, first
+introduction to computer programming.
+
+Show them how to do a few things in emacs.
+Say, C-n and C-p for navigating lines (for next
+and previous).  C-a to get to the front of the
+line (because a is at the front of the
+alphabet).  M-b and M-f (for back and forth) to
+go back and forward by words.
+
+Now show how to record these activities!
+
+C-x ( to begin recording and C-x ) to end
+recording.
+
+It is a sense of recording that is free from
+the burden of time.  It is a new kind of
+recording.  It doesn't record an impression of
+your movements, but the meaning of them.
+
+And then look at what you've got!
+
+Type C-x e for execute and 
+
+
+
+completing-read_.el -- this is just a place for
+me to play around what will be an important
+part of another repository, ``gradschool'' for
+organizing personal math and physics efforts. 
+csv-mode.el	
+el-get-install.el	
+epubmode.el	
+init.el	
+language-reference.el	
+personal.el	
+ralph.el	
+rot.el	
+sandbox.el	
+
