@@ -1346,3 +1346,4 @@ Modifies the match data; use `save-match-data' if necessary."
 (provide 'csv-mode)
 
 ;;; csv-mode.el ends here
+ 
